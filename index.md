@@ -7,8 +7,8 @@ title: Home
 
 This is the homepage of your Jekyll site using the `jekyll-theme-slate`. Below you can navigate to different sections of the site.
 
-- [About Us](/about/)
-- [Blog](/blog/)
+- [About Us]({{ site.baseurl }}/about/)
+- [Blog]({{ site.baseurl }}/blog/)
 
 ## Introduction
 
