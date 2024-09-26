@@ -3,7 +3,7 @@ title: My Slate Themed Site
 description: A simple static site using the Slate theme
 theme: jekyll-theme-slate
 baseurl: "" # Leave empty if using at the root of the GitHub Pages
-url: "https://your-username.github.io" # Your GitHub Pages URL
+url: "https://hnfontenot.github.io" # Your GitHub Pages URL
 
 # Optional navigation configuration (if you are manually setting up a navbar)
 navigation:
