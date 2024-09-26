@@ -1,28 +1,11 @@
-# Site settings
-title: My Static Site
-description: A simple static site using GitHub Pages and Jekyll
-baseurl: "" # Leave empty for root-level site
+# _config.yml
+title: My Slate Themed Site
+description: A simple static site using the Slate theme
+theme: jekyll-theme-slate
+baseurl: "" # Leave empty if using at the root of the GitHub Pages
 url: "https://your-username.github.io" # Your GitHub Pages URL
 
-# Jekyll settings
-theme: jekyll-theme-slate # The default theme (you can change it if desired)
-markdown: kramdown # The markdown engine
-permalink: pretty # Clean URLs without .html
-
-# Optional, social links (used in themes like minima)
-github_username: your-username
-twitter_username: your-twitter
-
-# Exclude files and folders from the site
-exclude:
-  - README.md
-  - LICENSE
-
-# Optional, plugins (Jekyll has many, but these are basics)
-plugins:
-  - jekyll-feed # Adds RSS feed
-  - jekyll-seo-tag # Adds SEO metadata
-
+# Optional navigation configuration (if you are manually setting up a navbar)
 navigation:
   - title: "Home"
     url: "/"
