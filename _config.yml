@@ -5,7 +5,7 @@ baseurl: "" # Leave empty for root-level site
 url: "https://your-username.github.io" # Your GitHub Pages URL
 
 # Jekyll settings
-theme: minima # The default theme (you can change it if desired)
+theme: jekyll-theme-slate # The default theme (you can change it if desired)
 markdown: kramdown # The markdown engine
 permalink: pretty # Clean URLs without .html
 
