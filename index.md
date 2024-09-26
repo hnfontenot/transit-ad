@@ -5,10 +5,14 @@ title: Home
 
 # Welcome to My Slate Themed Site
 
+![Example Image]({{ site.baseurl }}/assets/images/image-1.jpg)
+
 This is the homepage of your Jekyll site using the `jekyll-theme-slate`. Below you can navigate to different sections of the site.
 
 - [About Us]({{ site.baseurl }}/about/)
 - [Blog]({{ site.baseurl }}/blog/)
+
+![Another Image]({{ site.baseurl }}/assets/images/image-2.jpg)
 
 ## Introduction
 
