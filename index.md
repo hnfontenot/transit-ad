@@ -3,22 +3,15 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Static Site
+# Welcome to My Slate Themed Site
 
-This is a simple static site hosted on GitHub Pages using Jekyll.
+This is the homepage of your Jekyll site using the `jekyll-theme-slate`. Below you can navigate to different sections of the site.
 
-Here are some features you get for free with Jekyll:
+- [About Us](/about/)
+- [Blog](/blog/)
 
-- **Markdown**: Write your content in simple markdown syntax.
-- **Themes**: Easily switch between different themes.
-- **Plugins**: Add functionalities like SEO, sitemaps, and RSS feeds.
+## Introduction
 
-## About this site
+This theme features a dark, minimalistic design, perfect for showcasing your content in a sleek, modern way. 
 
-This site was generated using **GitHub Pages** and the **Jekyll** static site generator. You can [view the source code](https://github.com/your-username/my-static-site).
-
-### How to write in Markdown:
-
-1. Use `#` for headings (like this one).
-2. Use `*` or `-` for bullet points.
-3. Wrap text in `**` for **bold** or `*` for *italic* text.
+Feel free to customize the content on this homepage by editing the `index.md` file in the root directory.
