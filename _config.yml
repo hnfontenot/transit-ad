@@ -2,8 +2,8 @@
 title: My Slate Themed Site
 description: A simple static site using the Slate theme
 theme: jekyll-theme-slate
-baseurl: "" # Leave empty if using at the root of the GitHub Pages
-url: "https://hnfontenot.github.io" # Your GitHub Pages URL
+baseurl: "/transit-ad"  # Replace with your repository name
+url: "https://hnfontenot.github.io"  # Your GitHub Pages URL
 
 # Optional navigation configuration (if you are manually setting up a navbar)
 navigation:
