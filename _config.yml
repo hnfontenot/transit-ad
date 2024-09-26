@@ -22,3 +22,11 @@ exclude:
 plugins:
   - jekyll-feed # Adds RSS feed
   - jekyll-seo-tag # Adds SEO metadata
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Blog"
+    url: "/blog/"
